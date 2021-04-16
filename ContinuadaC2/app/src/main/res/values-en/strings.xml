@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Continuada-C3</string>
+    <string name="btn_cadastrar">" Register Dog"</string>
+    <string name="btn_listar">List Dogs</string>
+    <string name="tv_raca">Breed</string>
+    <string name="tv_preco">" Price"</string>
+    <string name="bl_IndicadoCrianca">" Suitable for children"</string>
+    <string name="tv_qtdCachorrosIndicados">Puppies suitable for children:</string>
+    <string name="tv_total">" Total Dogs"</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Continuada-C3</string>
+    <string name="btn_cadastrar">Cadastrar Cachorro</string>
+    <string name="btn_listar">Listar Cachorros</string>
+    <string name="tv_raca">Raça</string>
+    <string name="tv_preco">Preço</string>
+    <string name="bl_IndicadoCrianca">Indicado para crianças</string>
+    <string name="tv_qtdCachorrosIndicados">Cachorros indicados para crianças:</string>
+    <string name="tv_total">Total de Cachorros:</string>
+</resources>
